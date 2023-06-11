@@ -1,2 +1,2 @@
-My first readme
-We are changing things, we are moving things around
+# ALX Precourse
+A repository for the preliminary projects of the ALX onboarding phase.
